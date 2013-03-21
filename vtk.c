@@ -1,6 +1,6 @@
-/* Virtual Tomasz K³oczko in C
- * Author: Bartosz 'shadzik' ¦wi±tek (shadzik@pld-linux.org)
- * License: Do what ya want to, as long as you're an PLD Deviloper.
+/* Virtual Tomasz K¿oczko in C
+ * Author: Bartosz 'shadzik' ¿wi¿tek (shadzik@gmail.com)
+ * License: GPL
 */
 #include <stdio.h>
 #include <ctype.h>
