@@ -1,5 +1,5 @@
-/* Virtual Tomasz K¿oczko in C
- * Author: Bartosz 'shadzik' ¿wi¿tek (shadzik@gmail.com)
+/* Virtual Tomasz KÅ‚oczko in C
+ * Author: Bartosz 'shadzik' ÅšwiÄ…tek (shadzik@gmail.com)
  * License: GPL
 */
 #include <stdio.h>
